@@ -135,3 +135,6 @@ dist/
 # Environment variables
 .env
 prisma/test.db
+
+sbom-spdx.json
+trivy-report-*.txt
