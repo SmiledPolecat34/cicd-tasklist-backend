@@ -134,5 +134,4 @@ dist/
 .scannerwork/
 # Environment variables
 .env
-prisma\test.db
-prisma\test.db
+prisma/test.db
